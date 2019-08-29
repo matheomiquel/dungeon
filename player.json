@@ -1,0 +1,1 @@
+{ "player" : { "character" : { "lvl" : 4, "name" : "The Dwarf", "hp" : 18, "mp" : 5, "strength" : 5, "magic" : 2, "agility" : 3, "armor" : 4 }, "weapon" : { "name" : "War axe", "dmg" : 4, "type" : "strength", "strength" : 3, "magic" : 0, "agility" : 1 } } }
